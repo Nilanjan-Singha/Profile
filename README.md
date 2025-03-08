@@ -15,6 +15,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,react,&theme=dark" />
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,vscode,linux,windows,replit,tailwind,ts,vite,&theme=dark" />
   </a>
