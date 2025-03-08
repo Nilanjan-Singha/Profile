@@ -1,7 +1,7 @@
-![Hi, I'm Keri!](nilanjan.gif)
+![its nilu!](github-header-image.png)
 
 <h1 align="center">
-  name's keri, nice to meet ya
+  name's nil, nice to meet you
 </h1>
 <p align="center">
   i do a lotta stuff around here. no constraints on my craze or creativity, i just create all the ideas that come up in my mind.
