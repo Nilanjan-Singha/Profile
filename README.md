@@ -7,7 +7,6 @@
   i am right now pursing cs in a tier(error) college. i try to take out sometime to learn new languages but yeah i procastinate. 
   i love learning new stuff be it anything. i also make projects and guides, so feel free to check them out.
 </p>
-<br>
 <h3 align="center">
   my skills 👇
 </h3>
@@ -20,7 +19,6 @@
     <img src="https://skillicons.dev/icons?i=python,bash,vscode,linux,windows,replit,tailwind,ts,vite,&theme=dark" />
   </a>
 </p>
-<br>
 <!-- <h3 align="center">
   feel free to dm 👇
 </h3> -->
