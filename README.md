@@ -4,8 +4,8 @@
   name's nil, nice to meet you
 </h1>
 <p align="center">
-  i do a lotta stuff around here. no constraints on my craze or creativity, i just create all the ideas that come up in my mind.
-  <br><br> come look around, and you might find something that interests you, or just get in contact with me :3
+  i am right now pursing cs in a tier(error) college. i try to take out sometime to learn new languages but yeah i procastinate. 
+  <br> i love learning new stuff be it anything. i also make projects and guides, so feel free to check them out.
 </p>
 <h3 align="center">
   my skills 👇
@@ -14,7 +14,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,react,&theme=dark" />
   </a>
-  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,vscode,linux,windows,replit,tailwind,ts,vite,&theme=dark" />
   </a>
