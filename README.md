@@ -20,10 +20,10 @@
   </a>
 </p>
 <br>
-<h3 align="center">
+<!-- <h3 align="center">
   feel free to dm 👇
-</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,twitter,mastadon,gmail&theme=dark" />
-  </a>
+</h3> -->
+<!--   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,twitter,mastdon,gmail&theme=dark" />
+  </a> -->
 
