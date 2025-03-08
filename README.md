@@ -26,4 +26,9 @@
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=instagram,twitter,mastdon,gmail&theme=dark" />
   </a> -->
-
+<h3 align="center">
+  currently learning 👇
+</h3>
+<p align="center"><a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,figma,react,&theme=dark" />
+  </a>
