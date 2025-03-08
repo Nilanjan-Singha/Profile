@@ -10,3 +10,13 @@
 <h3 align="center">
   my skills 👇
 </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,docker,arduino&theme=dark" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,vscode,linux,arch,vue&theme=dark" />
+  </a>
+</p>
+<br>
