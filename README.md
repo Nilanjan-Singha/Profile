@@ -1,4 +1,4 @@
-![its nilu!](github-header-image(1).png)
+![its nilu!](nilu.png)
 
 <h1 align="center">
   name's nil, nice to meet you
