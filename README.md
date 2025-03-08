@@ -12,11 +12,18 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,docker,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,react,&theme=dark" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,vscode,linux,arch,vue&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,bash,vscode,linux,windows,replit,tailwind,ts,vite,&theme=dark" />
   </a>
 </p>
 <br>
+<h3 align="center">
+  feel free to dm 👇
+</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,twitter,mastadon,gmail&theme=dark" />
+  </a>
+
