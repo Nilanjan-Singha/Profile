@@ -5,7 +5,7 @@
 </h1>
 <p align="center">
   i am right now pursing cs in a tier(error) college. i try to take out sometime to learn new languages but yeah i procastinate. 
-  <br> i love learning new stuff be it anything. i also make projects and guides, so feel free to check them out.
+  i love learning new stuff be it anything. i also make projects and guides, so feel free to check them out.
 </p>
 <br>
 <h3 align="center">
