@@ -1,4 +1,4 @@
-![its nilu!](nilu.png)
+![its nilu!](i am nilanjan.png)
 
 <h1 align="center">
   name's nil, nice to meet you
